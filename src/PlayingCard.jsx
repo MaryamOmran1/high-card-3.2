@@ -6,3 +6,5 @@ const PlayingCard = ({ name, suit }) => (
     <p>{suit}</p>
   </div>
 );
+
+export default PlayingCard;
